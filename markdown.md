@@ -33,9 +33,9 @@ Url [Entidades nombradas](https://es.wikipedia.org/wiki/Anexo:Referencias_a_enti
 * Mewtwo ![Mewtwo](https://images.wikidexcdn.net/mwuploads/wikidex/4/44/latest/20090913093236/Mewtwo_HGSS.png)
 
 ### Lista numerada
-1. Agumon
-2. Gabumon
-3. Tentomon
+1. Agumon ![Agumon](https://wikimon.net/images/5/56/Agumon_battle_dsle.png)
+2. Gabumon ![Gabumon](https://wikimon.net/images/0/05/Spr_DS_Gabu.png)
+3. Tentomon ![Tentomon](https://wikimon.net/images/6/61/Spr_DS_Tento.png)
 
 ## Snippets
 ### Configurar el hook
