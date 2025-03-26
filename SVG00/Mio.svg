@@ -1,0 +1,11 @@
+<svg width="400" height="340" xlmns="http://www.w3.org/2000/svg"> 
+            <circle cx="200" cy="200" r="90" stroke="Black" stroke-whidth="4" fill="Black" />
+            <circle cx="100" cy="100" r="60" stroke="Black" stroke-whidth="4" fill="Black" />
+            <circle cx="300" cy="100" r="60" stroke="Black" stroke-whidth="4" fill="Black" />
+            <circle cx="300" cy="100" r="60" stroke="Black" stroke-whidth="4" fill="Black" />
+            <circle cx="200" cy="210" r="80" stroke="Black" stroke-whidth="4" fill="rgba(228, 207, 137, 0.952)" />
+            <circle cx="155" cy="200" r="12" stroke="Black" stroke-whidth="4" fill="Black" />
+            <circle cx="245" cy="200" r="12" stroke="Black" stroke-whidth="4" fill="Black" />
+            <circle cx="200" cy="230" r="13" stroke="Black" stroke-whidth="4" fill="Black" />
+            <circle cx="205" cy="226" r="3" stroke="Black" stroke-whidth="4" fill="white" />
+        </svg>
