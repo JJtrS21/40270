@@ -39,19 +39,35 @@
         console.log(x)
 
         //x.innerHTML = xy(1) + xy(2) + xy(1084)
-        for (let i = 0; i < 1084; i++){
-            x.innerHTML = x.innerHTML + xy(i)
-        }
+        //for (let i = 0; i < 10; i++){
+        //    x.innerHTML = x.innerHTML + xy(i)
+        //}
         
 
-        function xy(id){
-            const c =
-            '<figure>' +
-                '<img src="https://picsum.photos/id/'+id+'/200/200" alt="Machinedramon O Mugendramon">' +
-                '<figcaption>John</figcaption>' +
-            '</figure>'
-            return c
-        }
+        // function xy(id){
+        //     const c =
+        //     '<figure>' +
+        //         '<img src="https://picsum.photos/id/'+id+'/200/200" alt="Machinedramon O Mugendramon">' +
+        //         '<figcaption>John</figcaption>' +
+        //     '</figure>'
+        //     return c
+        // }
+
+        //function imagen(id) {
+            // función anónima asignada a la constante Picture
+            //const Picture = function (){return "hola"}
+
+            //función aninima del tipo arrow function asignada la constante Picture
+            const Picture = (id) => {
+                return `<figure>
+                 <img src="https://picsum.photos/id/${id}/200/200" alt="Machinedramon O Mugendramon"> 
+                 <figcaption>John</figcaption>' 
+             </figure>`
+            };
+        
+        
+            //cuidar que Picture ya esté inicializada
+            x.innerHTML = Picture(1) + Picture(2) + Picture(3)
     </script>
 
 </body>
